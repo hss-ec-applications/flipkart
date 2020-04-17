@@ -1,3 +1,4 @@
 Hello i am in master
+Hello am from dev branch
 updated file
 this is the file created in aws ec2 instance
